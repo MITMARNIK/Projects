@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703511158 source:d:\staff\programe c\conversie_nota_ro_us\main.c
+	<stdio.h>
+	<stdlib.h>
+

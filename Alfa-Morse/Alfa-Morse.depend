@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703155892 source:d:\staff\programe c\alfa-morse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
